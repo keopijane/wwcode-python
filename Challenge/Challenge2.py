@@ -1,19 +1,5 @@
-""" Aling Nena's Reward System Challenge
-Author:
-Description: This summer, Aling Nena’s Sari-sari store wants to implement a
-reward system where customers can redeem a reward by texting the following:
-<Reward number 1-9> <Customer’s name> <Gender f or m>
+#from https://wwcodemanila.github.io/WWCodeManila-Python/#/basic_concepts/strings?id=challenge
 
->> Please enter text: 1 nicole i. tibay f
-
-The system will then reply the following:
-Hi <Customer’s name first letters upper case>! You have successfully redeem
-reward #<reward number> - <reward>! Thank you for choosing Aling Nena’s
-Sari-sari store.
-
->> Hi Nicole I. Tibay! You have successfully redeem reward #1 - Coke sakto!
-Thank you for choosing Aling Nena’s Sari-sari store.
-"""
 
 # You can access this by: rewards[<index>]
 # Just like strings the index starts with 0
